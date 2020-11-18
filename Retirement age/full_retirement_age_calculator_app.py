@@ -1,4 +1,4 @@
-from changedoc.full_retirement_calc import full_retirement_age, full_retirement_date
+from full_retirement_calc import full_retirement_age, full_retirement_date
 
 
 def calculator():
