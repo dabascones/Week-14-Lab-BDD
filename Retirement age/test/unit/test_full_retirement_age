@@ -1,0 +1,7 @@
+import pytest
+
+from Retirement age.full_retirement_age_calculator_app import retirement_age
+
+
+def test_retirement_age():
+    assert "2052" == retirement_age()
