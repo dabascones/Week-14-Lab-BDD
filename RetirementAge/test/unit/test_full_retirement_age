@@ -1,6 +1,6 @@
 import pytest
 
-from RetirementAge.full_retirement_age_calculator_app import full_retirement_age, full_retirement_date
+from RetirementAge.full_retirement_calc import full_retirement_age, full_retirement_date
 
 
 def test_retirement_age():
